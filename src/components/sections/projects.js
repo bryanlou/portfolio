@@ -147,7 +147,6 @@ const Projects = ({ data }) => {
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        view the archive
       </StyledArchiveLink>
 
       <StyledGrid>
@@ -216,9 +215,9 @@ const Projects = ({ data }) => {
         </TransitionGroup>
       </StyledGrid>
 
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
+      {/* <StyledMoreButton onClick={() => setShowMore(!showMore)}>
+               Show {showMore ? 'Less' : 'More'}
+             </StyledMoreButton>*/}
     </StyledContainer>
   );
 };
