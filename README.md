@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bryanlou/portfolio/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  bryanlou.com
+  bryanlou.xyz
 </h1>
 <p align="center">
   Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
