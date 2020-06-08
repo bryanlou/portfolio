@@ -13,8 +13,6 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bryanlou/portfolio/master/src/images/demo.png)
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
